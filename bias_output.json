@@ -1,0 +1,17 @@
+{
+  "date": "2026-05-08",
+  "schema_version": "2.1",
+  "trade_enabled": true,
+  "vol_regime": "low_vol",
+  "macro_regime": "bearish_gold",
+  "market_regime": "ranging",
+  "adx": 14.29,
+  "fv_extremity": "fair",
+  "expected_session_range_pct": 2.8813,
+  "suggested_stop_pct": 1.0085,
+  "spot": 4720.3999,
+  "fair_value_ref": 4829.3849,
+  "stale_after": "2026-05-08T22:00:00Z",
+  "model": "context_v1",
+  "notes": ""
+}
